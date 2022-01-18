@@ -1,4 +1,4 @@
-# Li yang 
+# LiYang 
 ###
 ## Architecture and Solution: 
 * High Availability Distributed Service Architecture Pattern
